@@ -18,7 +18,7 @@ When I'm not at my computer, you'll probably find me:
 * ⚽ Playing soccer
 * 🏋️ At the gym
 * 🎮 Playing video games
-* 🌎 Trying new things and finding new ways to improve
+* 🌎 Trying new things and finding new ways to improve as a person
 
 ## 📫 Let's Connect!
 
