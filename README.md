@@ -9,7 +9,7 @@ I'm someone who enjoys learning new things, solving problems, and helping people
 * 🌱 Always learning and working on becoming a better developer
 * 🛠️ Building projects and gaining more hands-on experience
 * 🤝 Happy to collaborate, help others, and learn from people along the way
-* 🚀 Looking to start my career in software development
+* 💻 Grinding to hopefully become a software engineer
 
 ## ⚽ Outside of Coding
 
