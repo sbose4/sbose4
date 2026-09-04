@@ -1,6 +1,6 @@
 ## Hey, I'm Shreyan! 👋
 
-I'm a recent Computer Science graduate from the University of Georgia 🎓
+I'm a Computer Science graduate from the University of Georgia! 🎓
 
 I'm someone who enjoys learning new things, solving problems, and helping people whenever I can. I'm always looking for ways to improve — whether that's becoming a better developer, picking up a new skill, or just challenging myself to do something I couldn't do before.
 
