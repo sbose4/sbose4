@@ -1,4 +1,4 @@
-## Hey, I'm Shreyan! 👋
+# Hey, I'm Shreyan! 👋
 
 I'm a Computer Science graduate from the University of Georgia! 🎓
 
@@ -15,7 +15,7 @@ I'm someone who enjoys learning new things, solving problems, and helping people
 
 When I'm not at my computer, you'll probably find me:
 
-* ⚽ Playing soccer and working on my game
+* ⚽ Playing soccer
 * 🏋️ At the gym
 * 🎮 Playing video games
 * 🌎 Trying new things and finding new ways to improve
